@@ -1,0 +1,14 @@
+{
+  "name": "tester-package",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0"
+  },
+  "description": "This package is for testing ideas only",
+  "main": "index.js",
+  "author": "Adrian Figueroa Rodriguez",
+  "license": "MIT"
+}
